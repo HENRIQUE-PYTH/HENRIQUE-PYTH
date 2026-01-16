@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Henrique
 
-<!--
-**HENRIQUE-PYTH/HENRIQUE-PYTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end developer focused on **Java** and **REST APIs**.  
+Currently studying and building projects with **Spring Boot**, aiming to apply good practices and real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
+
+---
+
+## 🧩 Frameworks & Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+</p>
+
+---
+
+## 🛠️ Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dbeaver/dbeaver-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📌 Other Skills
+- Code reading and understanding in **JavaScript, Python, HTML, and CSS**
+- Maintenance and adjustments in existing projects using these technologies
+- Identifying issues and fixing specific parts of the codebase
+- Ability to adapt solutions using documentation and AI assistance
+- Strong capability to analyze code flow, understand structures, and apply fixes without breaking the system
+
+---
+
+## 📂 Projects
+Check my pinned repositories below to see practical projects and ongoing studies 👇
