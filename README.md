@@ -8,7 +8,7 @@ Currently studying and building projects with **Spring Boot**, aiming to apply g
 ## 🧠 Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ASql_data_base_with_logo.png&psig=AOvVaw1It185HvzrrF9VTBp6oET-&ust=1769883781778000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCyjYPxs5IDFQAAAAAdAAAAABAE">
+  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Sql_data_base_with_logo.png">
 </p>
 
 ---
