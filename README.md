@@ -15,7 +15,7 @@ Currently studying and building projects with **Spring Boot**, aiming to apply g
 ## 🧩 Frameworks & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcwi.com.br%2Fblog%2Fversionar-sua-base-de-dados-com-spring-boot-e-flyway%2F&psig=AOvVaw0ydb6XRBmQUn-6wNkHWPTw&ust=1769883478747000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMD4mfXvs5IDFQAAAAAdAAAAABAE"/>
+  <img src="https://raw.githubusercontent.com/flyway/flywaydb.org/main/assets/logo/flyway-logo.svg" width="40"/>
 </p>
 
 ---
