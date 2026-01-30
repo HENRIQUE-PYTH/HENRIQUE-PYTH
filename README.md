@@ -15,9 +15,8 @@ Currently studying and building projects with **Spring Boot**, aiming to apply g
 ## 🧩 Frameworks & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/flyway/flywaydb.org/main/assets/logo/flyway-logo.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
 </p>
-
 ---
 
 ## 🛠️ Tools
